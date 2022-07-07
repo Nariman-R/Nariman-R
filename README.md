@@ -14,8 +14,7 @@
 > И сказать себе - ты программист. <br>
 
 
-![image](https://user-images.githubusercontent.com/87778834/177876359-b3ab52ff-3027-4ea6-b548-05ce9b43e094.png)
-![image](https://user-images.githubusercontent.com/87778834/177876420-fb3e0cda-ac3f-4e25-909a-e3c7a3f41fd9.png)
+
 
 
 
