@@ -2,7 +2,7 @@
 
 ### Briefly About Myself:
 My name is Nariman and I'm from Kazakhstan.
-I've always dreamt to be a developer. My goal is to improve my programming skills and become a full-stack developer. 
+I've always dreamt to be a developer. My goal is to improve my programming skills. 
 
 I work as a network analyst in IT company. My scope is DPI solutions. Sometimes I use `python` in my work for task automation. I always see ideas for task automation. But my programming skills are not always so good as to create useful applications. 
 
@@ -21,7 +21,7 @@ I work as a network analyst in IT company. My scope is DPI solutions. Sometimes 
 ## Всем привет и добро пожаловать!
 
 ## Кратко о себе:
-Меня зовут Нариман и я из Казахстана. Я всегда мечтал быть разработчиком. Моя цель — улучшить свои навыки программирования и стать полноценным разработчиком.
+Меня зовут Нариман и я из Казахстана. Я всегда мечтал быть разработчиком. Моя цель — улучшить свои навыки программирования.
 
 Я работаю аналитиком в ИТ-компании. Моя сфера деятельности — решения DPI. Иногда я использую python в своей работе для автоматизации задач. Я всегда вижу идеи для автоматизации задач. Но мои навыки программирования не всегда настолько хороши, чтобы создавать полезные приложения.
 
